@@ -1,0 +1,8 @@
+BOT_TRADER_SWING_MULTI V4.4.1
+Baseline: V4.4.0 user-provided source archive
+Primary navigation: 5 tabs
+Shared flow/trap diagnostics: enabled
+Automated tests: 41 passed
+Python compileall: passed
+UI runtime test: not performed (Streamlit unavailable in build environment)
+See CHANGELOG_V4.4.1.md, USER_GUIDE_V4.4.1.md, QA_REPORT_V4.4.1.md
